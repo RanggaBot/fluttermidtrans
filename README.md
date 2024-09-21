@@ -50,8 +50,11 @@ Ensure you have the following installed:
    ```
 
 **Flutter Version**
-   **V 3.19.0**
-   **In a separate terminal, Check your version**
+```bash
+Flutter Version 3.19.0
+```
+
+   In a separate terminal, Check your version:
    ```bash
    Flutter doctor / flutter --version
    ```
