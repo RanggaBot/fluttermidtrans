@@ -4,7 +4,6 @@ Here's an enhanced version of your README.md file with a more engaging format:
 
 Mobile application built with Flutter for the frontend and Express.js for the backend, seamlessly integrating Midtrans for payment processing.
 
-![Flutter Midtrans](https://your-image-link-here.com)
 
 ## 🛠️ Technologies Used
 
