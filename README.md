@@ -1,5 +1,3 @@
-Here's an enhanced version of your README.md file with a more engaging format:
-
 # 🚀 Flutter X ⚡Midtrans
 
 Mobile application built with Flutter for the frontend and Express.js for the backend, seamlessly integrating Midtrans for payment processing.
@@ -49,6 +47,13 @@ Ensure you have the following installed:
    In a separate terminal, start your Flutter app:
    ```bash
    flutter run
+   ```
+
+**Flutter Version**
+
+   **In a separate terminal, Check your version**
+   ```bash
+   Flutter 3.19.0
    ```
 
 ### 🌟 Features
