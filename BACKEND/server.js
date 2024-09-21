@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-const MIDTRANS_SERVER_KEY = 'SB-Mid-server-rqAwNZTMWOEMOeppOdY2TemX';
+const MIDTRANS_SERVER_KEY = '';
 const MIDTRANS_API_URL = 'https://api.sandbox.midtrans.com/v2/charge';
 
 
