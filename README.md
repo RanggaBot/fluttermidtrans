@@ -1,4 +1,3 @@
-# PROSES PROJECT 75%
 # 🚀 Flutter  X ⚡Midtrans
 
 Mobile application built with Flutter for the frontend and Express.js for the backend, seamlessly integrating Midtrans for payment processing.
